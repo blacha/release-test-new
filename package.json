@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {},
   "devDependencies": {},
-  "files": [],
+  "files": ["src/"],
   "publishConfig": {
     "access": "public"
   },
