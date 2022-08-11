@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/blacha/release-test-new/compare/v0.0.2...v0.1.0) (2022-08-11)
+
+
+### Features
+
+* add alias helloWorld() ([c26fb6c](https://github.com/blacha/release-test-new/commit/c26fb6c89dcc69f32d7624e1fbd3268217d916b6))
+
 ## 0.0.2 (2022-08-11)
 
 
