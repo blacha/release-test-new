@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/blacha/release-test-new/compare/v0.2.0...v0.2.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* improve wording ([95f8aa5](https://github.com/blacha/release-test-new/commit/95f8aa556ab1061367a7ea0ffc9012657ff378ee))
+
 ## [0.2.0](https://github.com/blacha/release-test-new/compare/v0.1.0...v0.2.0) (2022-08-11)
 
 
