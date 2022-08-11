@@ -1,0 +1,14 @@
+{
+  "name": "@blacha/release-test-new",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {},
+  "files": [],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {}
+}
