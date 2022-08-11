@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/blacha/release-test-new/compare/v0.1.0...v0.2.0) (2022-08-11)
+
+
+### Features
+
+* remove unused alias helloWorld ([45b2480](https://github.com/blacha/release-test-new/commit/45b2480bd412b29957cc9346cdf36ab051cab61f))
+
 ## [0.1.0](https://github.com/blacha/release-test-new/compare/v0.0.2...v0.1.0) (2022-08-11)
 
 
