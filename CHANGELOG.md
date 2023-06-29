@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/blacha/release-test-new/compare/v0.3.0...v0.3.1) (2023-06-29)
+
+
+### Bug Fixes
+
+* include github token in publish ([1cc99a0](https://github.com/blacha/release-test-new/commit/1cc99a03913ca6e1e91574d48ea6055e19d05a11))
+
 ## [0.3.0](https://github.com/blacha/release-test-new/compare/v0.2.1...v0.3.0) (2023-06-29)
 
 
