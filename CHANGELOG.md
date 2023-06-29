@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0](https://github.com/blacha/release-test-new/compare/v0.2.1...v0.3.0) (2023-06-29)
+
+
+### Features
+
+* move to npm ([99934bd](https://github.com/blacha/release-test-new/commit/99934bde5d93a8186bd625a8b3029f149b068e77))
+
+
+### Bug Fixes
+
+* correct lock file ([2a46273](https://github.com/blacha/release-test-new/commit/2a46273c7ff4eced019b4a4623953eab5e0e5fad))
+* missing lock file ([ad5af6c](https://github.com/blacha/release-test-new/commit/ad5af6cc9f8752a68c5083a5503aaf75fc36ed96))
+
 ## [0.2.1](https://github.com/blacha/release-test-new/compare/v0.2.0...v0.2.1) (2022-08-11)
 
 
