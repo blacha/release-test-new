@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/blacha/release-test-new/compare/v0.3.1...v0.3.2) (2023-06-29)
+
+
+### Bug Fixes
+
+* need token write ([2e40652](https://github.com/blacha/release-test-new/commit/2e40652c2420110822f2a761e4b9a320b3f4149f))
+
 ## [0.3.1](https://github.com/blacha/release-test-new/compare/v0.3.0...v0.3.1) (2023-06-29)
 
 
